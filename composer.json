@@ -1,5 +1,5 @@
 {
-    "name": "corcel/woocommerce",
+    "name": "bizprove/woocommerce",
     "description": "WooCommerce plugin for Corcel",
     "homepage": "http://github.com/corcel/woocommerce",
     "license": "MIT",
@@ -14,7 +14,7 @@
         "php": "^7.3",
         "illuminate/database": "^6.0|^7.0|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0",
-        "jgrossi/corcel": "^3.0|^4.0|^5.0",
+        "bizprove/corcel": "^3.0|^4.0|^5.0",
         "nesbot/carbon": "^2.0"
     },
     "require-dev": {
